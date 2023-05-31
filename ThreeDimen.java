@@ -8,6 +8,7 @@ public class ThreeDimen {
 	 Scanner sc=new Scanner(System.in);
 		int arr[][][]=new int[2][2][2];
 		System.out.println("enter the elements of array");
+System.out.println("hello first commit");
 		for(int i=0;i<=arr.length-1;i++)
 		{
 			for(int j=0;j<=arr[i].length-1;j++)
